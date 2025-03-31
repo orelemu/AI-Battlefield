@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-A tactical battle simulation in a closed arena, developed in C++. The simulation features two rival teams competing for control using dynamic movement, strategic combat, and real-time resource management.
+A tactical battle simulation in a closed arena, developed in C++. 
+The simulation features two rival teams competing for control using dynamic movement, strategic combat, and real-time resource management.
 
 ## Team Structure
 
