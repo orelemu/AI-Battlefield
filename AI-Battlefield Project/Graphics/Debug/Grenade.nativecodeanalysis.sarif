@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34435.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/grenade.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "4791d21d59284461722973d248c87d279333189ea92f791a53aa7febae0ac036"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/grenade.h"
+          },
+          "hashes": {
+            "sha-256": "667f42417d2614a8031e9a7b70b1794332d82ffe5a9028a4fb08fb66fe02b989"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/bullet.h"
+          },
+          "hashes": {
+            "sha-256": "69aec8d594ac73f07377d8aef6909ee457c7b97054ccaa4154b5e22b2524cd49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/definitions.h"
+          },
+          "hashes": {
+            "sha-256": "0eedce23e0d10c4976502af0482fad0c44b943387ff33b483ffb016b7737f123"
+          }
+        }
+      ]
+    }
+  ]
+}

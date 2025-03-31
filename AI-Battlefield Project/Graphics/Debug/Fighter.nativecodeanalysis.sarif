@@ -1,0 +1,91 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34435.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/fighter.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "e852f2d150a3149d4ab020d0b93c2d5a6cb208987fa9e6fd6af3f1bc2ef0d319"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/fighter.h"
+          },
+          "hashes": {
+            "sha-256": "d8f6be032ac163964285412ce2fc026cc379541e2270df1f66d1fbcb36e17119"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/npc.h"
+          },
+          "hashes": {
+            "sha-256": "830292c07c9b7c5e321e3d3894b4e851ac697b7af1bb7a67367078c9f5a5cf96"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/state.h"
+          },
+          "hashes": {
+            "sha-256": "15b55f260b6b61f7ae03f5a075e281979e2d9b0a6cc5d357eb664fed514749da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/cell.h"
+          },
+          "hashes": {
+            "sha-256": "c27731ec2c16835624af42b5623994c983a0d43bed079b3ff88421a7743cdb88"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/comparecells.h"
+          },
+          "hashes": {
+            "sha-256": "b91caf3611d44db06cc542cfbe190a01234c49d7dfef3b4c94e6923ca5d2abc0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/definitions.h"
+          },
+          "hashes": {
+            "sha-256": "391208143a4c0e046421a3280c89157b9c7933208413d1b826aa54ae650927a3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/רועי/downloads/בינה מלאכותית/פרויקט סיום/securitymap (1)/graphics/graphics/attackstate.h"
+          },
+          "hashes": {
+            "sha-256": "94b1b9d9718da8018a68de06f3331245f1a34fdeb74d38576de66b9dba49ba23"
+          }
+        }
+      ]
+    }
+  ]
+}
